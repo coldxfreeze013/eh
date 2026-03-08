@@ -1,0 +1,34 @@
+AIM:- Linux Network Analysis and ARP Poisoning  • Linux Network Analysis:  
+o	Execute the ifconfig command to retrieve network interface information.  
+o	Use the ping command to test network connectivity and analyze the output.  
+o	Analyze the netstat command output to view active network connections.  o Perform a traceroute to trace the route packets take to reach a target host.  
+•	ARP Poisoning:  
+o	Use ARP poisoning techniques to redirect network traffic on a Windows system.  
+o	Analyze the effects of ARP poisoning on network communication and security.  
+
+ 
+SOLUTION :-  
+ 
+Linux Network Analysis 
+Windows  Linux 
+ 
+Ping 
+Windows 
+ 
+Linux 
+Netstat 
+Windows 
+ Linux 
+Traceroute 
+ 
+Linux  
+ 
+Use Cain & Abel Tool 
+STEP 1:- Download, Install and then Open the Cain & Abel Tool. 
+STEP 2:- First go to Sniffer and then click on configure, select the appropriate wireless adapter. Click on apply and then click on the OK button. 
+STEP 4:- Click on + Icon. Check All Tests checkbox and then click on OK. 
+STEP 5:- It will Display All Hosts. 
+STEP 6:- Click on ARP then click on the blank screen and then on the + Icon. Select any IP Address. 
+STEP 7:- Select all IP Address and Mac Addresses and then click on OK. 
+STEP 8:- Select Start/Stop ARP. 
+STEP 9:- Click on Passwords and go to http for user login session information.
